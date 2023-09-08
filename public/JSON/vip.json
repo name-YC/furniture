@@ -1,0 +1,124 @@
+{
+  "list": [
+    {
+      "state": false,
+      "ids": 10001,
+      "urls": "../img/User/customer.png",
+      "names": "用户1",
+      "phoneNumber": 16789036781,
+      "address": "北京-东城区",
+      "style": "正常",
+      "amount": 1500,
+      "num": 15,
+      "tiems": "2020-08-13"
+    },
+    {
+      "state": false,
+      "ids": 10002,
+      "urls": "",
+      "names": "用户1",
+      "phoneNumber": 16789036781,
+      "address": "北京-东城区",
+      "style": "正常",
+      "amount": 1500,
+      "num": 15,
+      "tiems": "2020-08-13"
+    },
+    {
+      "state": false,
+      "ids": 10003,
+      "urls": "",
+      "names": "用户1",
+      "phoneNumber": 16789036781,
+      "address": "北京-东城区",
+      "style": "正常",
+      "amount": 1500,
+      "num": 15,
+      "tiems": "2020-08-13"
+    },
+    {
+      "state": false,
+      "ids": 10004,
+      "urls": "",
+      "names": "用户1",
+      "phoneNumber": 16789036781,
+      "address": "北京-东城区",
+      "style": "正常",
+      "amount": 1500,
+      "num": 15,
+      "tiems": "2020-08-13"
+    },
+    {
+      "state": false,
+      "ids": 10005,
+      "urls": "",
+      "names": "用户1",
+      "phoneNumber": 16789036781,
+      "address": "北京-东城区",
+      "style": "正常",
+      "amount": 1500,
+      "num": 15,
+      "tiems": "2020-08-13"
+    },
+    {
+      "state": false,
+      "ids": 10006,
+      "urls": "",
+      "names": "用户1",
+      "phoneNumber": 16789036781,
+      "address": "北京-东城区",
+      "style": "正常",
+      "amount": 1500,
+      "num": 15,
+      "tiems": "2020-08-13"
+    },
+    {
+      "state": false,
+      "ids": 10007,
+      "urls": "",
+      "names": "用户1",
+      "phoneNumber": 16789036781,
+      "address": "北京-东城区",
+      "style": "正常",
+      "amount": 1500,
+      "num": 15,
+      "tiems": "2020-08-13"
+    },
+    {
+      "state": false,
+      "ids": 10008,
+      "urls": "",
+      "names": "用户1",
+      "phoneNumber": 16789036781,
+      "address": "北京-东城区",
+      "style": "正常",
+      "amount": 1500,
+      "num": 15,
+      "tiems": "2020-08-13"
+    },
+    {
+      "state": false,
+      "ids": 10009,
+      "urls": "",
+      "names": "用户1",
+      "phoneNumber": 16789036781,
+      "address": "北京-东城区",
+      "style": "正常",
+      "amount": 1500,
+      "num": 15,
+      "tiems": "2020-08-13"
+    },
+    {
+      "state": false,
+      "ids": 10010,
+      "urls": "",
+      "names": "用户1",
+      "phoneNumber": 16789036781,
+      "address": "北京-东城区",
+      "style": "正常",
+      "amount": 1500,
+      "num": 15,
+      "tiems": "2020-08-13"
+    }
+  ]
+}

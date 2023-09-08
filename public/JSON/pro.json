@@ -1,0 +1,69 @@
+{
+    "list": [
+        {
+            "state": false,
+            "ids": 10086,
+            "urls": "../img/pro01.png",
+            "names": "TCLKK电动床",
+            "price": 34998,
+            "classify": "卧房家具",
+            "inventory": 120,
+            "sales": 87,
+            "style": "上架",
+            "publish": "家具在线",
+            "time": "2022-07-0421:00"
+        },
+        {
+            "state": false,
+            "ids": 10084,
+            "urls": "../img/pro02.png",
+            "names": "TCLKK电动床",
+            "price": 14849,
+            "classify": "卧房家具",
+            "inventory": 120,
+            "sales": 87,
+            "style": "上架",
+            "publish": "家具在线",
+            "time": "2022-07-0421:00"
+        },
+        {
+            "state": false,
+            "ids": 10083,
+            "urls": "../img/pro03.png",
+            "names": "TCLKK电动床",
+            "price": 5800,
+            "classify": "卧房家具",
+            "inventory": 120,
+            "sales": 87,
+            "style": "上架",
+            "publish": "家具在线",
+            "time": "2022-07-0421:00"
+        },
+        {
+            "state": false,
+            "ids": 10074,
+            "urls": "../img/pro04.png",
+            "names": "TCLKK电动床",
+            "price": 1322,
+            "classify": "卧房家具",
+            "inventory": 120,
+            "sales": 87,
+            "style": "上架",
+            "publish": "家具在线",
+            "time": "2022-07-0421:00"
+        },
+        {
+            "state": false,
+            "ids": 10080,
+            "urls": "../img/pro05.png",
+            "names": "TCLKK电动床",
+            "price": 232,
+            "classify": "卧房家具",
+            "inventory": 120,
+            "sales": 87,
+            "style": "上架",
+            "publish": "家具在线",
+            "time": "2022-07-0421:00"
+        }
+    ]
+}
